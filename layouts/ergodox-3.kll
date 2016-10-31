@@ -1,0 +1,65 @@
+Name = "ergodox-3";
+Layout = "Default";
+Base = "Blank";
+Version = "0.1";
+Author = "Philipp Tschannen";
+KLL = "0.3d";
+Date = "2015-09-12";
+Generator = "KIICONF 0.2";
+
+## left hand ##
+
+# Top Row
+U"5" : ledControl(5, 125, 0);
+U"4" : ledControl(5, 100, 0);
+U"3" : ledControl(5, 75, 0);
+U"2" : ledControl(5, 50, 0);
+U"1" : ledControl(5, 25, 0);
+U"Equals" : flashMode();
+
+# Top-Middle Row
+
+# Middle Row
+
+# Top Thumb Cluster
+
+# Bottom-Middle Row
+
+# Bottom Thumb Cluster
+
+# Bottom Row
+U"Function5" : U"LCTRL" + U"RBrace";
+
+
+## right hand ##
+
+
+# Top Row
+U"Minus" : flashMode();
+U"6" : ledControl(5, 150, 0);
+U"7" : ledControl(5, 175, 0);
+U"8" : ledControl(5, 200, 0);
+U"9" : ledControl(5, 225, 0);
+U"0" : ledControl(5, 255, 0);
+
+# Top-Middle Row
+
+# Middle Row
+
+# Top Thumb Cluster
+
+# Bottom-Middle Row
+U"Slash" : CONS"VolumeUp";
+
+# Bottom Thumb Cluster
+#U"PageUp" : ledControl(4, 25, 0);
+U"PageUp" : ledControl(5, 255, 0);
+#U"PageDown" : ledControl(3, 25, 0);
+U"PageDown" : ledControl(5, 0, 0);
+U"Space" : U"LCtrl" + U"LAlt" + U"Space";
+
+# Bottom Row
+U"Down" : CONS"PausePlay";
+U"Up" : CONS"ScanPreviousTrack";
+U"Right" : CONS"VolumeDown";
+U"RGui" : CONS"ScanNextTrack";

@@ -1,0 +1,118 @@
+Name = "ergodox-0";
+Layout = "Default";
+Base = "Blank";
+Version = "0.1";
+Author = "Philipp Tschannen";
+KLL = "0.3d";
+Date = "2015-09-12";
+Generator = "KIICONF 0.2";
+
+## left hand ##
+
+# Top Row
+U"Esc" : U"Lock2";
+U"5" : U"5";
+U"4" : U"4";
+U"3" : U"3";
+U"2" : U"2";
+U"1" : U"1";
+U"Equals" : U"Backtick";
+
+# Top-Middle Row
+U"Function1" : U"Function2";
+U"T" : U"T";
+U"R" : U"R";
+U"E" : U"E";
+U"W" : U"W";
+U"Q" : U"Q";
+U"Backslash" : U"Tab";
+
+# Middle Row
+U"G" : U"G";
+U"F" : U"F";
+U"D" : U"D";
+U"S" : U"S";
+U"A" : U"A";
+U"Tab" : U"Function1";
+
+# Top Thumb Cluster
+U"LAlt" : None;
+U"LCtrl" : U"F3";
+
+# Bottom-Middle Row
+U"Function2" : U"LGUI";
+U"B" : U"B";
+U"V" : U"V";
+U"C" : U"C";
+U"X" : U"X";
+U"Z" : U"Z";
+U"LShift" : U"LShift";
+
+# Bottom Thumb Cluster
+U"Home" : U"LALT";
+U"End" : U"LCTRL";
+U"Delete" : U"Delete";
+U"Backspace" : U"Backspace";
+
+# Bottom Row
+U"Function5" : U"LCTRL";
+U"Function4" : U"LALT";
+U"Function3" : U"Function2";
+U"Backtick" : U"ISO/";
+U"LGui" : U"Function3";
+
+
+## right hand ##
+
+
+# Top Row
+U"Function6" : U"Lock2";
+U"6" : U"6";
+U"7" : U"7";
+U"8" : U"8";
+U"9" : U"9";
+U"0" : U"0";
+U"Minus" : U"Minus";
+
+# Top-Middle Row
+U"LBrace" : U"Function2";
+U"Y" : U"Y";
+U"U" : U"U";
+U"I" : U"I";
+U"O" : U"O";
+U"P" : U"P";
+U"RBrace" : U"LBrace";
+
+# Middle Row
+U"H": U"H";
+U"J": U"J";
+U"K": U"K";
+U"L": U"L";
+U"Semicolon" : U"Semicolon";
+U"Quote" : U"Quote";
+
+# Top Thumb Cluster
+U"RAlt" : U"PrintScreen";
+U"RCtrl" : U"Pause";
+
+# Bottom-Middle Row
+U"Function7" : U"Function3";
+U"N" : U"N";
+U"M" : U"M";
+U"Comma" : U"Comma";
+U"Period" : U"Period";
+U"Slash" : U"Up";
+U"RShift" : U"Slash";
+
+# Bottom Thumb Cluster
+U"PageUp" : U"RALT";
+U"PageDown" : U"RCtrl";
+U"Enter" : U"Enter";
+U"Space" : U"Space";
+
+# Bottom Row
+U"Left" : U"ESC";
+U"Down" : U"LShift";
+U"Up" : U"Left";
+U"Right" : U"Down";
+U"RGui" : U"Right";

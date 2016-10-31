@@ -1,0 +1,57 @@
+Name = "ergodox";
+Layout = "Default";
+Base = "Blank";
+Version = "0.1";
+Author = "Philipp Tschannen";
+LL = "0.3d";
+Date = "2015-09-12";
+Generator = "KIICONF 0.2";
+
+## left hand ##
+
+# Top Row
+U"3" : U"RAlt" + U"3";
+U"2" : U"RAlt" + U"2";
+U"Equals" : U"RAlt" + U"=";
+
+# Bottom Thumb Cluster
+U"Delete" : U"Enter";
+U"Backspace" : U"Space";
+
+# Bottom Row
+U"Function5" : U"Esc";
+
+
+## right hand ##
+
+
+# Top Row
+U"7" : U"RAlt" + U"ISO/";
+U"0" : U"LShift" + U"]";
+U"Minus" : U"=";
+
+# Top-Middle Row
+U"U" : U"RAlt" + U"[";
+U"I" : U"RAlt" + U"]";
+U"RBrace" : U"]";
+
+# Middle Row
+U"H": U"RAlt" + U"7";
+U"J": U"RAlt" + U"Quote";
+U"K": U"RAlt" + U"Backslash";
+U"Semicolon" : U"RAlt" + U";";
+U"Quote" : U"Backslash";
+
+# Top Thumb Cluster
+
+# Bottom-Middle Row
+U"M" : U"ISO/";
+U"Comma" : U"LShift" + U"ISO/";
+U"Slash" : U"PageUp";
+
+# Bottom Thumb Cluster
+
+# Bottom Row
+U"Up" : U"Home";
+U"Right" : U"PageDown";
+U"RGui" : U"End";

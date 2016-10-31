@@ -1,0 +1,66 @@
+Name = "ergodox-2";
+Layout = "Default";
+Base = "Blank";
+Version = "0.1";
+Author = "Philipp Tschannen";
+KLL = "0.3d";
+Date = "2015-09-12";
+Generator = "KIICONF 0.2";
+
+## left hand ##
+
+# Top Row
+U"5" : U"F5";
+U"4" : U"F4";
+U"3" : U"F3";
+U"2" : U"F2";
+U"1" : U"F1";
+
+# Top-Middle Row
+U"E" : U"F6";
+U"W" : U"F5";
+U"Q" : U"F4";
+
+# Middle Row
+U"D" : U"F9";
+U"S" : U"F8";
+U"A" : U"F7";
+
+# Top Thumb Cluster
+
+# Bottom-Middle Row
+U"C" : U"F12";
+U"X" : U"F11";
+U"Z" : U"F10";
+
+# Bottom Thumb Cluster
+
+# Bottom Row
+
+
+## right hand ##
+
+
+# Top Row
+U"6" : U"F6";
+U"7" : U"F7";
+U"8" : U"F8";
+U"9" : U"F9";
+U"0" : U"F10";
+
+# Top-Middle Row
+U"Y" : U"F11";
+U"U" : U"F12";
+U"I" : U"F13";
+U"O" : U"F14";
+U"P" : U"F15";
+
+# Middle Row
+
+# Top Thumb Cluster
+
+# Bottom-Middle Row
+
+# Bottom Thumb Cluster
+
+# Bottom Row
