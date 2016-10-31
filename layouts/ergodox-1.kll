@@ -10,9 +10,13 @@ Generator = "KIICONF 0.2";
 ## left hand ##
 
 # Top Row
-U"3" : U"RAlt" + U"3";
+U"1" : U"RAlt" + U"1";
 U"2" : U"RAlt" + U"2";
+U"3" : U"RAlt" + U"3";
 U"Equals" : U"RAlt" + U"=";
+
+# Top-Middle Row
+U"E" : U"RAlt" + U"E";
 
 # Bottom Thumb Cluster
 U"Delete" : U"Enter";

@@ -7,10 +7,10 @@ KLL = "0.3d";
 Date = "2015-09-12";
 Generator = "KIICONF 0.2";
 
-## left hand ##
+#### left hand ####
 
 # Top Row
-U"Esc" : U"Lock2";
+U"Esc" : U"F9";
 U"5" : U"5";
 U"4" : U"4";
 U"3" : U"3";
@@ -19,7 +19,7 @@ U"1" : U"1";
 U"Equals" : U"Backtick";
 
 # Top-Middle Row
-U"Function1" : U"Function2";
+U"Function1" : U"F8";
 U"T" : U"T";
 U"R" : U"R";
 U"E" : U"E";
@@ -36,11 +36,11 @@ U"A" : U"A";
 U"Tab" : U"Function1";
 
 # Top Thumb Cluster
-U"LAlt" : None;
+U"LAlt" : U"F2";
 U"LCtrl" : U"F3";
 
 # Bottom-Middle Row
-U"Function2" : U"LGUI";
+U"Function2" : U"F5";
 U"B" : U"B";
 U"V" : U"V";
 U"C" : U"C";
@@ -49,7 +49,7 @@ U"Z" : U"Z";
 U"LShift" : U"LShift";
 
 # Bottom Thumb Cluster
-U"Home" : U"LALT";
+U"Home" : U"LGUI";
 U"End" : U"LCTRL";
 U"Delete" : U"Delete";
 U"Backspace" : U"Backspace";
@@ -62,11 +62,11 @@ U"Backtick" : U"ISO/";
 U"LGui" : U"Function3";
 
 
-## right hand ##
+#### right hand ####
 
 
 # Top Row
-U"Function6" : U"Lock2";
+U"Function6" : U"Function3";
 U"6" : U"6";
 U"7" : U"7";
 U"8" : U"8";
@@ -75,7 +75,7 @@ U"0" : U"0";
 U"Minus" : U"Minus";
 
 # Top-Middle Row
-U"LBrace" : U"Function2";
+U"LBrace" : U"Function1";
 U"Y" : U"Y";
 U"U" : U"U";
 U"I" : U"I";
@@ -96,7 +96,7 @@ U"RAlt" : U"PrintScreen";
 U"RCtrl" : U"Pause";
 
 # Bottom-Middle Row
-U"Function7" : U"Function3";
+U"Function7" : U"RShift";
 U"N" : U"N";
 U"M" : U"M";
 U"Comma" : U"Comma";
@@ -105,14 +105,14 @@ U"Slash" : U"Up";
 U"RShift" : U"Slash";
 
 # Bottom Thumb Cluster
-U"PageUp" : U"RALT";
-U"PageDown" : U"RCtrl";
+U"PageUp" : U"F11";
+U"PageDown" : U"F10";
 U"Enter" : U"Enter";
 U"Space" : U"Space";
 
 # Bottom Row
 U"Left" : U"ESC";
-U"Down" : U"LShift";
+U"Down" : U"Function2";
 U"Up" : U"Left";
 U"Right" : U"Down";
 U"RGui" : U"Right";
