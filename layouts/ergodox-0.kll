@@ -10,7 +10,7 @@ Generator = "KIICONF 0.2";
 #### left hand ####
 
 # Top Row
-U"Esc" : U"LGui";
+U"Esc" : U"F11";
 U"5" : U"5";
 U"4" : U"4";
 U"3" : U"3";
@@ -19,7 +19,7 @@ U"1" : U"1";
 U"Equals" : U"Backtick";
 
 # Top-Middle Row
-U"Function1" : U"F9";
+U"Function1" : U"F10";
 U"T" : U"T";
 U"R" : U"R";
 U"E" : U"E";
@@ -40,7 +40,7 @@ U"LAlt" : U"F3";
 U"LCtrl" : U"F5";
 
 # Bottom-Middle Row
-U"Function2" : U"F8";
+U"Function2" : U"F9";
 U"B" : U"B";
 U"V" : U"V";
 U"C" : U"C";
@@ -58,7 +58,7 @@ U"Backspace" : U"Backspace";
 U"Function5" : U"LCTRL";
 U"Function4" : U"LALT";
 U"Function3" : U"Function2";
-U"Backtick" : U"ISO/";
+U"Backtick" : U"LGui";
 U"LGui" : U"Function3";
 
 
@@ -105,8 +105,8 @@ U"Slash" : U"Up";
 U"RShift" : U"Slash";
 
 # Bottom Thumb Cluster
-U"PageUp" : U"F11";
-U"PageDown" : U"F10";
+U"PageUp" : U"F12";
+U"PageDown" : U"F8";
 U"Enter" : U"Enter";
 U"Space" : U"Space";
 
