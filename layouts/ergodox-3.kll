@@ -49,17 +49,12 @@ U"0" : ledControl(5, 255, 0);
 # Top Thumb Cluster
 
 # Bottom-Middle Row
-U"Slash" : CONS"VolumeUp";
 
 # Bottom Thumb Cluster
-#U"PageUp" : ledControl(4, 25, 0);
-U"PageUp" : ledControl(5, 255, 0);
+#U"PageUp"   : ledControl(4, 25, 0);
+U"PageUp"    : ledControl(5, 255, 0);
 #U"PageDown" : ledControl(3, 25, 0);
-U"PageDown" : ledControl(5, 0, 0);
-U"Space" : U"LCtrl" + U"LAlt" + U"Space";
+U"PageDown"  : ledControl(5, 0, 0);
+U"Space"     : U"LCtrl" + U"LAlt" + U"Space";
 
 # Bottom Row
-U"Down" : CONS"PausePlay";
-U"Up" : CONS"ScanPreviousTrack";
-U"Right" : CONS"VolumeDown";
-U"RGui" : CONS"ScanNextTrack";

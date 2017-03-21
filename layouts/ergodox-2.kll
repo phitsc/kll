@@ -10,11 +10,10 @@ Generator = "KIICONF 0.2";
 ## left hand ##
 
 # Top Row
-U"5" : U"F5";
-U"4" : U"F4";
 U"3" : U"F3";
 U"2" : U"F2";
 U"1" : U"F1";
+U"Equals" : flashMode();
 
 # Top-Middle Row
 U"E" : U"F6";
@@ -42,25 +41,28 @@ U"Z" : U"F10";
 
 
 # Top Row
-U"6" : U"F6";
-U"7" : U"F7";
-U"8" : U"F8";
-U"9" : U"F9";
-U"0" : U"F10";
+U"Minus" : flashMode();
 
 # Top-Middle Row
-U"Y" : U"F11";
-U"U" : U"F12";
-U"I" : U"F13";
-U"O" : U"F14";
-U"P" : U"F15";
 
 # Middle Row
 
 # Top Thumb Cluster
+U"RAlt" : CONS"ScanPreviousTrack";
+U"RCtrl" : CONS"ScanNextTrack";
 
 # Bottom-Middle Row
+U"Period" : mouseOut(1, 0, 0);
+U"Slash"  : mouseOut(0, 0, -1);
+U"RShift" : mouseOut(2, 0, 0);
 
 # Bottom Thumb Cluster
+U"PageUp" : CONS"VolumeUp";
+U"PageDown" : CONS"VolumeDown";
+U"Enter" : CONS"Mute";
+U"Space" : CONS"PausePlay";
 
 # Bottom Row
+U"Up"    : mouseOut(0, -1, 0);
+U"Right" : mouseOut(0, 0, 1);
+U"RGui"  : mouseOut(0, 1, 0);

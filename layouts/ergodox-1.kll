@@ -43,12 +43,13 @@ U"RBrace" : U"]";
 U"H": U"RAlt" + U"7";
 U"J": U"RAlt" + U"Quote";
 U"K": U"RAlt" + U"Backslash";
-U"Semicolon" : U"RAlt" + U";";
+U"Semicolon" : U["="], U["Space"];
 U"Quote" : U"Backslash";
 
 # Top Thumb Cluster
 
 # Bottom-Middle Row
+U"N" : U"Slash";
 U"M" : U"ISO/";
 U"Comma" : U"LShift" + U"ISO/";
 U"Slash" : U"PageUp";
