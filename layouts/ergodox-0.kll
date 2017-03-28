@@ -58,7 +58,7 @@ U"Backspace" : U"Backspace";
 U"Function5" : U"LCTRL";
 U"Function4" : U"LALT";
 U"Function3" : U"Function2";
-U"Backtick" : U"LGui";
+# U"Backtick" : U"";
 U"LGui" : U"Function3";
 
 
@@ -66,7 +66,7 @@ U"LGui" : U"Function3";
 
 
 # Top Row
-U"Function6" : U"Function3";
+U"Function6" : U"LGui";
 U"6" : U"6";
 U"7" : U"7";
 U"8" : U"8";
@@ -75,7 +75,7 @@ U"0" : U"0";
 U"Minus" : U"Minus";
 
 # Top-Middle Row
-U"LBrace" : U"Function1";
+#U"LBrace" : U"";
 U"Y" : U"Y";
 U"U" : U"U";
 U"I" : U"I";
@@ -112,7 +112,7 @@ U"Space" : U"Space";
 
 # Bottom Row
 U"Left" : U"ESC";
-U"Down" : U"Function2";
+U"Down" : U"Function1";
 U"Up" : U"Left";
 U"Right" : U"Down";
 U"RGui" : U"Right";

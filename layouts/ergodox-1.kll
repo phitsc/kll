@@ -10,13 +10,23 @@ Generator = "KIICONF 0.2";
 ## left hand ##
 
 # Top Row
-U"1" : U"RAlt" + U"1";
-U"2" : U"RAlt" + U"2";
+U"Esc" : flashMode();
 U"3" : U"RAlt" + U"3";
-U"Equals" : U"RAlt" + U"=";
+U"2" : U"RAlt" + U"2";
+U"1" : U"RAlt" + U"1";
+U"Equals" : U"RAlt" + U"=", U"Space";
 
 # Top-Middle Row
 U"E" : U"RAlt" + U"E";
+U"W" : U"LShift" + U"0";
+U"Q" : U"LShift" + U"]";
+
+# Middle Row
+U"G" : U"LShift" + U"5";
+U"F" : U"LShift" + U"7";
+U"D" : U"LShift" + U"3";
+U"S" : U"Slash";
+U"A" : U"LShift" + U"1";
 
 # Bottom Thumb Cluster
 U"Delete" : U"Enter";
@@ -30,9 +40,10 @@ U"Function5" : U"Esc";
 
 
 # Top Row
+U"Function6" : flashMode();
 U"7" : U"RAlt" + U"ISO/";
 U"0" : U"LShift" + U"]";
-U"Minus" : U"=";
+U"Minus" : U"LShift" + U"=", U"Space";
 
 # Top-Middle Row
 U"U" : U"RAlt" + U"[";
@@ -43,6 +54,7 @@ U"RBrace" : U"]";
 U"H": U"RAlt" + U"7";
 U"J": U"RAlt" + U"Quote";
 U"K": U"RAlt" + U"Backslash";
+U"L": U"LShift" + U"6";
 U"Semicolon" : U["="], U["Space"];
 U"Quote" : U"Backslash";
 
@@ -52,9 +64,12 @@ U"Quote" : U"Backslash";
 U"N" : U"Slash";
 U"M" : U"ISO/";
 U"Comma" : U"LShift" + U"ISO/";
+U"Period" : U"LShift" + U"Period";
 U"Slash" : U"PageUp";
 
 # Bottom Thumb Cluster
+U"Enter" : U"Backspace";
+U"Space" : U"Delete";
 
 # Bottom Row
 U"Up" : U"Home";
