@@ -1,11 +1,7 @@
 Name = "ergodox-0";
-Layout = "Default";
-Base = "Blank";
 Version = "0.1";
 Author = "Philipp Tschannen";
-KLL = "0.3d";
-Date = "2015-09-12";
-Generator = "KIICONF 0.2";
+KLL = 0.3d;
 
 #### left hand ####
 
@@ -16,7 +12,8 @@ U"4" : U"4";
 U"3" : U"3";
 U"2" : U"2";
 U"1" : U"1";
-U"Equals" : U"Backtick";
+U["LShift", "RShift"] + U"Equals" : U"RAlt" + U"=" + blockKey(0xE1) + blockKey(0xE5), U"Space";
+U"Equals" : U"LShift" + U"=", U"Space";
 
 # Top-Middle Row
 U"Function1" : U"F10";

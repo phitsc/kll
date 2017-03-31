@@ -1,11 +1,7 @@
-Name = "ergodox";
-Layout = "Default";
-Base = "Blank";
+Name = "ergodox-1";
 Version = "0.1";
 Author = "Philipp Tschannen";
-LL = "0.3d";
-Date = "2015-09-12";
-Generator = "KIICONF 0.2";
+KLL = 0.3d;
 
 ## left hand ##
 
@@ -14,7 +10,7 @@ U"Esc" : flashMode();
 U"3" : U"RAlt" + U"3";
 U"2" : U"RAlt" + U"2";
 U"1" : U"RAlt" + U"1";
-U"Equals" : U"RAlt" + U"=", U"Space";
+U"Equals" : U"Backtick";
 
 # Top-Middle Row
 U"E" : U"RAlt" + U"E";
@@ -43,7 +39,7 @@ U"Function5" : U"Esc";
 U"Function6" : flashMode();
 U"7" : U"RAlt" + U"ISO/";
 U"0" : U"LShift" + U"]";
-U"Minus" : U"LShift" + U"=", U"Space";
+U"Minus" : U"=";
 
 # Top-Middle Row
 U"U" : U"RAlt" + U"[";

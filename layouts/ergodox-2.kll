@@ -1,11 +1,7 @@
 Name = "ergodox-2";
-Layout = "Default";
-Base = "Blank";
 Version = "0.1";
 Author = "Philipp Tschannen";
-KLL = "0.3d";
-Date = "2015-09-12";
-Generator = "KIICONF 0.2";
+KLL = 0.3d;
 
 ## left hand ##
 
