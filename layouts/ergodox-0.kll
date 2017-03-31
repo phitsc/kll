@@ -12,7 +12,7 @@ U"4" : U"4";
 U"3" : U"3";
 U"2" : U"2";
 U"1" : U"1";
-U["LShift", "RShift"] + U"Equals" : U"RAlt" + U"=" + blockKey(0xE1) + blockKey(0xE5), U"Space";
+U["LShift", "RShift"] + U"Equals" : U"RAlt" + U"=", U"Space";
 U"Equals" : U"LShift" + U"=", U"Space";
 
 # Top-Middle Row

@@ -1,4 +1,4 @@
-Name = "ergodox-1";
+Name = "ergodox";
 Version = "0.1";
 Author = "Philipp Tschannen";
 KLL = 0.3d;
@@ -42,6 +42,7 @@ U"0" : U"LShift" + U"]";
 U"Minus" : U"=";
 
 # Top-Middle Row
+U"Y" : U"RAlt" + U"=", U"Space";
 U"U" : U"RAlt" + U"[";
 U"I" : U"RAlt" + U"]";
 U"RBrace" : U"]";
