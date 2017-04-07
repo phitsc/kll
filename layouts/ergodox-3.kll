@@ -14,6 +14,7 @@ U"1" : ledControl(5, 25, 0);
 U"Equals" : flashMode();
 
 # Top-Middle Row
+U"E" : U"LGui" + U"E";
 
 # Middle Row
 
